@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0314/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖多羅菩薩一百八名陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1105.xml
+    old_id: T20n1105
+hash: sha256:4484aa2fb8f55b30d435aac2abca5c7239a934747db50767d91c8f1c13171f9a
